@@ -2,4 +2,3 @@ Fun title
 
 This is not a drawing
 
-/usr/bin/bash: :q: command not found

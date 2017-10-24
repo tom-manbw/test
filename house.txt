@@ -1,0 +1,12 @@
+              XX
+           XXXXXX
+        XXXX    XX
+     XXXX        XXXX
+   XXX              XXXX
+XXXX+----------------+ XXX
+    |                |
+    |                |
+    |                |
+    |                |
+    |                |
+    +----------------+
